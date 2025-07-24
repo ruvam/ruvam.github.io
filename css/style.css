@@ -1,0 +1,41 @@
+body {
+  margin: 3rem;
+  background: #dca;
+  color: #731;
+
+  line-height: 1.5rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+  font: bold italic large serif;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+  font: bold italic large serif;
+}
+
+p {
+  font-size: 1rem;
+}
+
+ul {
+  padding-left: 1rem;
+  list-style-type: disc;
+}
+
+a {
+  all: unset;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #600;
+}
+
+#page {
+   text-decoration: underline;
+}
