@@ -1,5 +1,7 @@
 body {
+  height: 0vh;  /* idk if this is good, but this makes dark reader go nice with my site.*/
   margin: 3rem;
+
   background: #dca;
   color: #731;
 
@@ -34,8 +36,4 @@ a {
 
 a:hover {
   color: #600;
-}
-
-#page {
-   text-decoration: underline;
 }
